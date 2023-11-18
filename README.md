@@ -1,4 +1,4 @@
-# My Awesome Android Blog/News App
+# Simple Android Blog/News App
 
 <div style="display: flex; justify-content: space-between;">
   <img src="screenshots/screenshot1.jpg" alt="Screenshot 1" width="300"/>
