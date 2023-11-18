@@ -1,7 +1,9 @@
 # My Awesome Android Blog/News App
 
-<img src="screenshots/screenshot1.jpg" alt="Screenshot 1" width="300"/>
-<img src="screenshots/screenshot2.jpg" alt="Screenshot 2" width="300"/>
+<div style="display: flex; justify-content: space-between;">
+  <img src="screenshots/screenshot1.jpg" alt="Screenshot 1" width="300"/>
+  <img src="screenshots/screenshot2.jpg" alt="Screenshot 2" width="300"/>
+</div>
 
 ## About the App
 
