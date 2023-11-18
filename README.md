@@ -1,7 +1,7 @@
 # My Awesome Android Blog/News App
 
-![Screenshot 1](screenshots/screenshot1.jpg)
-![Screenshot 2](screenshots/screenshot2.jpg)
+<img src="screenshots/screenshot1.jpg" alt="Screenshot 1" width="300"/>
+<img src="screenshots/screenshot2.jpg" alt="Screenshot 2" width="300"/>
 
 ## About the App
 
